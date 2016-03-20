@@ -6,12 +6,12 @@ This tap contains formulae for [SIMH](http://simh.trailing-edge.com). Specifical
 
 Just `brew tap wizardishungry/simh` and then `brew install <formula>`.
 
-If the formula conflicts with one from Homebrew/homebrew or another tap, you can `brew install homebrew/tex/<formula>`.
+If the formula conflicts with one from Homebrew or another tap, you can `brew install WIZARDISHUNGRY/simh/simh`.
 
 You can also install via URL:
 
 ```
-brew install https://raw.githubusercontent.com/Homebrew/homebrew-tex/master/<formula>.rb
+brew install https://raw.githubusercontent.com/WIZARDISHUNGRY/homebrew-simh/master/simh.rb
 ```
 
 ## Acceptable Formulae.
