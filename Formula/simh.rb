@@ -4,7 +4,7 @@ class Simh < Formula
   sha256 ""
   #version "v4.0-Beta-1"
 
-  head "https://github.com/simh/simh.git", ":revision"
+  head "https://github.com/simh/simh.git"
 
   def install
     ENV.deparallelize unless build.head?
